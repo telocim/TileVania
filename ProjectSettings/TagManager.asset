@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bf_5
+    uniqueID: 2205884113
+    locked: 0
+  - name: bg_4
+    uniqueID: 1987349143
+    locked: 0
+  - name: bg_3
+    uniqueID: 2880352847
+    locked: 0
+  - name: bg_2
+    uniqueID: 1647579655
+    locked: 0
+  - name: bg_1
+    uniqueID: 3835736943
+    locked: 0
+  - name: Platforms
+    uniqueID: 2091429111
+    locked: 0
