@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Water
+    uniqueID: 2566598565
+    locked: 0
   - name: bf_5
     uniqueID: 2205884113
     locked: 0
