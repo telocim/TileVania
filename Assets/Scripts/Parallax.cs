@@ -9,7 +9,8 @@ public class Parallax : MonoBehaviour
 
     private void Update()
     {
-        transform.position = new Vector2(cam.position.x * relativeMove, cam.position.y * relativeMove);
+        //transform.position = new Vector2(cam.position.x * relativeMove, cam.position.y * relativeMove);
+        transform.position = new Vector2(cam.position.x * relativeMove, cam.position.y);
     }
 
 }
